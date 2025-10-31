@@ -1,1 +1,4 @@
-lux-k.github.io
+title: lux-k Projects
+theme: minima
+
+[Bat detection via BattyBirdNET-Pi](batnet)
